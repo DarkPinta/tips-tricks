@@ -1,0 +1,15 @@
+letter-spacing: 2px;
+расстояние между буквами;
+line-height: 16px;
+расстояние между строками;
+text-decoration: none;
+убрать подчеркивание у ссылок;
+height: высота;
+width: ширина;
+background: #000;
+цвет фона background-image: url();
+используется для указания в качестве фона рисунка background-position: 0 0;
+используется для указания,
+где будет располагаться фоновое изображение. Принимает значение - top,
+left right bottom;
+background-attachment:;
